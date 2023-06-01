@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kbcQuiz/static/css/main.6aecbf37.css",
+    "main.js": "/kbcQuiz/static/js/main.63a420c2.js",
+    "static/js/845.647035d8.chunk.js": "/kbcQuiz/static/js/845.647035d8.chunk.js",
+    "static/media/kbcTimer.mp3": "/kbcQuiz/static/media/kbcTimer.7a761c7b9c23e0b9b852.mp3",
+    "static/media/kbcImg.jpg": "/kbcQuiz/static/media/kbcImg.2b541ed0c368a9e07362.jpg",
+    "static/media/KbcAnswerSound.mp3": "/kbcQuiz/static/media/KbcAnswerSound.a3d46debc8f7013fee44.mp3",
+    "static/media/kbcwrong.mp3": "/kbcQuiz/static/media/kbcwrong.8201c8ba6e2ac82e2a67.mp3",
+    "index.html": "/kbcQuiz/index.html",
+    "main.6aecbf37.css.map": "/kbcQuiz/static/css/main.6aecbf37.css.map",
+    "main.63a420c2.js.map": "/kbcQuiz/static/js/main.63a420c2.js.map",
+    "845.647035d8.chunk.js.map": "/kbcQuiz/static/js/845.647035d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aecbf37.css",
+    "static/js/main.63a420c2.js"
+  ]
+}
