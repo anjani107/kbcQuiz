@@ -57,24 +57,112 @@ function App() {
       ]
     },
     {
-      id :3 ,
-      question : "which one more popular website for coding ?",
+      id :1 ,
+      question : "What is the capital of Australia?",
       answers :[
         {
-          text:"w3School",
+          text:"Sydney",
           correct:false,
         },
         {
-          text:"elonifycoder",
+          text:"Melbourne",
           correct: false,
         },
         {
-          text:"vscode",
-          correct: false,
-        },
-        {
-          text:"sublime",
+          text:"Canberra",
           correct: true,
+        },
+        {
+          text:"Brisbane",
+          correct: false,
+        }
+      ]
+    },
+    {
+      id :1 ,
+      question : "Who painted the Mona Lisa?",
+      answers :[
+        {
+          text:"Vincent van Gogh",
+          correct:false,
+        },
+        {
+          text:"MelboPablo Picassorne",
+          correct: false,
+        },
+        {
+          text:"Leonardo da Vinci",
+          correct: true,
+        },
+        {
+          text:"Michelangelo",
+          correct: false,
+        }
+      ]
+    },
+    {
+      id :1 ,
+      question : "Which planet is known as the Red Planet?",
+      answers :[
+        {
+          text:"Jupiter",
+          correct:false,
+        },
+        {
+          text:"Mars",
+          correct: true,
+        },
+        {
+          text:"Venus",
+          correct: false,
+        },
+        {
+          text:"Saturn",
+          correct: false,
+        }
+      ]
+    },
+    {
+      id :1 ,
+      question : "What is the chemical symbol for gold?",
+      answers :[
+        {
+          text:"Ag",
+          correct:false,
+        },
+        {
+          text:"Fe",
+          correct: false,
+        },
+        {
+          text:"Cu",
+          correct: false,
+        },
+        {
+          text:"Au",
+          correct: true,
+        }
+      ]
+    },
+    {
+      id :1 ,
+      question : "In which year did World War II end?",
+      answers :[
+        {
+          text:"1943",
+          correct:false,
+        },
+        {
+          text:"1945",
+          correct: true,
+        },
+        {
+          text:"1950",
+          correct: false,
+        },
+        {
+          text:"1939",
+          correct: false,
         }
       ]
     }
