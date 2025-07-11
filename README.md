@@ -3,6 +3,8 @@ link of website : https://anjani107.github.io/kbcQuiz/
 
 ## 📸 Screenshot
 
+#website click above
+
 
 ![Blog API Screenshot](src/assets/kbc.png)
 
