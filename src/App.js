@@ -57,7 +57,7 @@ function App() {
       ]
     },
     {
-      id :1 ,
+      id :3 ,
       question : "What is the capital of Australia?",
       answers :[
         {
@@ -79,7 +79,7 @@ function App() {
       ]
     },
     {
-      id :1 ,
+      id :4 ,
       question : "Who painted the Mona Lisa?",
       answers :[
         {
@@ -101,7 +101,7 @@ function App() {
       ]
     },
     {
-      id :1 ,
+      id :5 ,
       question : "Which planet is known as the Red Planet?",
       answers :[
         {
@@ -123,7 +123,7 @@ function App() {
       ]
     },
     {
-      id :1 ,
+      id :6 ,
       question : "What is the chemical symbol for gold?",
       answers :[
         {
@@ -145,7 +145,7 @@ function App() {
       ]
     },
     {
-      id :1 ,
+      id :7 ,
       question : "In which year did World War II end?",
       answers :[
         {
