@@ -4,7 +4,7 @@ link of website : https://anjani107.github.io/kbcQuiz/
 ## 📸 Screenshot
 
 
-![Blog API Screenshot](src/assets/img/kbc.png)
+![Blog API Screenshot](src/assets/kbc.png)
 
 
 # Getting Started with Create React App
